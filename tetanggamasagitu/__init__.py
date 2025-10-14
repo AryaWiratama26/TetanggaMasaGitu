@@ -1,1 +1,1 @@
-from knn import KNeighborsClassifier
+from .tmg_knn import KNeighborsClassifier
