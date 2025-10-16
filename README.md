@@ -15,7 +15,7 @@ K-Nearest Neighbor (KNN) is a supervised learning algorithm used for both classi
 1. Calculate Distance (Euclidean Distance) <br/>
 In this package, the Euclidean Distance formula is used to measure the similarity between the test data point and each training data point.
 <div align="center">
-    <img src="/docs/euc.png" alt="Euclidean Distance"/>
+    <img src="/docs/euc2.png" alt="Euclidean Distance"/>
 </div>
 
 2. Sort the Distance <br/>
